@@ -1,0 +1,4 @@
+grant codeBase "file:/Users/haiho/OneDrive - The University of Melbourne/Distributed Systems (COMP90015)/Assignment 2/InfinityMonkeys-remaster/comp90015-dsass2-infinitymonkeys-remaster/out/production/comp90015-dsass2-infinitymonkeys-remaster/" {
+    permission java.util.PropertyPermission '*', "read,write";
+    permission java.security.AllPermission;
+};
